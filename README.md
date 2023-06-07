@@ -23,6 +23,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Here's a screenshoot of it:
+elisadefa.github.io_HW1_
 
 ### Here's the link to the finished website:
 https://elisadefa.github.io/HW1/
