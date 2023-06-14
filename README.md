@@ -22,5 +22,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Here's a screenshoot of it:
+<img width="518" alt="Screenshot 2023-06-06 at 18 03 41" src="https://github.com/ElisaDefa/HW1/assets/54649470/a8997fb1-d89d-4d98-b0dd-5c24d05b0785">
+
 ### Here's the link to the finished website:
 https://elisadefa.github.io/HW1/
